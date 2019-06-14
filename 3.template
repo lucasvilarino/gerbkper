@@ -1,0 +1,13 @@
+<!-- ------------------------ 3-tabela ------------------------ -->
+<table class="tg">
+  <tr>
+    <th class="tg-titulo" colspan="6">ITENS PROCESSADOS</th>
+  </tr>
+	
+	<tr>
+    <td class="tg-cabecalho">Descricao</td>
+    <td class="tg-cabecalho">Caminho Origem</td>
+    <td class="tg-cabecalho">Caminho Destino</td>
+    <td class="tg-cabecalho">Tamanho Destino</td>
+    <td class="tg-cabecalho">Resultado</td>
+  </tr>

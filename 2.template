@@ -1,0 +1,12 @@
+<!-- ------------------------ 2-cabecalho ------------------------ -->
+<title>BACKUP</title></head>
+<p style="margin-left: 15" align="left"><font face="verdana" color="black"><font size="4">!TITLE!</font><br>
+<body><font size="1">!SCRIPT_VERSION!</font></font><br><br>
+<table style="font-family:verdana; font-size:8pt;">
+   <tr><td>Itens:</td><td>!ITEM_COUNT!</td></tr>
+   <tr><td>Inicio do Backup:</td><td>!BACKUP_START!</td></tr>
+   <tr><td>Fim do Backup:</td><td>!BACKUP_END!</td></tr>
+   <tr><td>Tempo decorrido:</td><td>!BACKUP_TIME!</td></tr>
+   <tr><td>Tamanho total dos arquivos:</td><td>!FILES_SIZE_TOTAL!</td></tr>
+   <tr><td>Versao do SO :</td><td>!SO_VERSION!</td></tr>
+   <tr><td>Resultado:</td><td><font color="green"><b>!FINAL_RESULT!</b></font></td></tr></table><br>

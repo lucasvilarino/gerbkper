@@ -1,0 +1,7 @@
+	<tr>
+		<td class="tg-!LINE!linha">!FILE_DESCRIPTION!</td>
+		<td class="tg-!LINE!linha">!FILE_SOURCE!</td>
+		<td class="tg-!LINE!linha">!FILE_DESTINATION!</td>
+		<td class="tg-!LINE!linha">!FILE_DESTINATION_SIZE!</td>
+		<td class="tg-exito!LINE!">!COPY_STATUS!</td>
+	</tr>

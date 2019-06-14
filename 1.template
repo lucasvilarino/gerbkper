@@ -1,0 +1,89 @@
+<!-- ------------------------ 1-estilo ------------------------ -->
+<html>
+<head>
+<style type="text/css">
+/* ---------- TITULO DA TABELA ---------- */
+.tg th{
+	font-family:Arial, sans-serif;
+	font-size:14px;
+	font-weight:normal;
+	padding:10px 5px;
+	border-style:solid;
+	border-width:0px;
+	overflow:hidden;
+	word-break:normal;
+	border-top-width:1px;
+	border-bottom-width:1px;
+	border-color:#999;
+	color:#fff;
+	background-color:#26ADE4;
+/* --------------------------------------- */
+}
+.tg{
+	border-collapse:collapse;
+	border-spacing:0;
+	border-color:#999;
+}
+.tg td{
+	font-family:Arial, sans-serif;
+	font-size:14px;
+	padding:10px 5px;
+	border-style:solid;
+	border-width:0px;
+	overflow:hidden;
+	word-break:normal;
+	border-top-width:1px;
+	border-bottom-width:1px;
+	border-color:#999;
+	color:#444;
+	background-color:#F7FDFA;
+}
+.tg .tg-1linha{
+	border-color:inherit;
+	text-align:left;
+	vertical-align:top;
+}
+.tg .tg-2linha{
+	background-color:#D2E4FC;
+	border-color:inherit;
+	text-align:left;
+	vertical-align:top;
+}
+.tg .tg-falha{
+	background-color:#D2E4FC;
+	font-weight:bold;
+	color:#9a0000;
+	border-color:inherit;
+	text-align:left;
+	vertical-align:top;
+}
+.tg .tg-titulo{
+	font-weight:bold;
+	font-size:18px;
+	border-color:inherit;
+	text-align:center;
+	vertical-align:top;
+}
+.tg .tg-cabecalho{
+	background-color:#D2E4FC;
+	font-weight:bold;
+	border-color:inherit;
+	text-align:left;
+	vertical-align:top;
+}
+.tg .tg-exito1{
+	font-weight:bold;
+	color:#036400;
+	border-color:inherit;
+	text-align:left;
+	vertical-align:top;
+}
+.tg .tg-exito2{
+	background-color:#D2E4FC;
+	font-weight:bold;
+	color:#036400;
+	border-color:inherit;
+	text-align:left;
+	vertical-align:top;
+}
+</style>
