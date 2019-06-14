@@ -49,10 +49,17 @@
 	text-align:left;
 	vertical-align:top;
 }
-.tg .tg-falha{
+.tg .tg-falha1{
+	font-weight:bold;
+	color:#036400;
+	border-color:inherit;
+	text-align:left;
+	vertical-align:top;
+}
+.tg .tg-falha2{
 	background-color:#D2E4FC;
 	font-weight:bold;
-	color:#9a0000;
+	color:#036400;
 	border-color:inherit;
 	text-align:left;
 	vertical-align:top;
