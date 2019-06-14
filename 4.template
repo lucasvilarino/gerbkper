@@ -3,5 +3,5 @@
 		<td class="tg-!LINE!linha">!FILE_SOURCE!</td>
 		<td class="tg-!LINE!linha">!FILE_DESTINATION!</td>
 		<td class="tg-!LINE!linha">!FILE_DESTINATION_SIZE!</td>
-		<td class=!STATUS!">!COPY_STATUS!</td>
+		<td class="tg-!STATUS!">!COPY_STATUS!</td>
 	</tr>
